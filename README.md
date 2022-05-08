@@ -3,3 +3,4 @@ Kaggle Notebooks where I work with data uploaded on that platform, performing ED
 
 List of Projects: 
 - Valorant Analysis, in which I visualize and analyse a few datasets of the online shooting game Valorant, by Riot Games. 
+- Titanic Competition, which is my first submission to the Kaggle Titanic Competition, made so that beginners can follow along and learn some key concepts. 
